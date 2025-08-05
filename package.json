@@ -12,8 +12,7 @@
     "url": "https://github.com/ipfs/aegir/issues"
   },
   "publishConfig": {
-    "access": "public",
-    "provenance": true
+    "access": "public"
   },
   "keywords": [
     "build",
